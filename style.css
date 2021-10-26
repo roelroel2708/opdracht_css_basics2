@@ -1,0 +1,40 @@
+body {
+    background-color: peru;
+    border: 3px black solid;
+}
+
+h1 {
+    background-color: orange;
+    margin: 0px;
+    padding: 5px;
+    background-color: red;
+}
+
+ul {
+    list-style-type: none;
+    border: olive solid 3px;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+img {
+    border: rgb(24, 17, 133) solid 3px;
+    padding: 10px;
+    background-color: purple;
+}
+
+header {
+    border: solid goldenrod 3px;
+}
+
+main {
+    border: royalblue solid 3px;
+}
+
+footer {
+    padding: 5px;
+}
